@@ -8,9 +8,9 @@ Our doggo, Iroh, had a some anxiety issues that we weren't able to overcome unti
     <img alt="Iroh sitting surrounded by pink flowers" src="./images/Iroh.png" width=200 />
 </p>
 
-As a thank you for her tireless work, I wanted to build a 3d project that doubled as practice for myself, as I'm learning 3D printing, and honored her work. I know she collects unique chess sets so this project seemed like a good fit.
+As a thank you for her tireless work, I wanted to build a 3d project that doubled as practice for myself, as I'm learning 3D printing, and honored her work. I know she collects unique chess sets so I decided to build her a custom chess set for dogs with disabilities. It was important to me that these were displayed with normalcy and focusing on the positive rather than any limiting aspects since that would more accurately capture her focus and her work.
 
-I found [this chess set](https://www.thingiverse.com/thing:5590380) in Thingiverse that was adorable and seemed like a good starting point.
+I found [this chess set](https://www.thingiverse.com/thing:5590380) in Thingiverse that was both adorable and a great starting point.
 
 <p align="center">
     <img alt="original ches set from thingiverse" src="./images/reference-set.png" width=400 />
@@ -55,8 +55,6 @@ The rest of the card art was generated with ChatGPT and edited in Photoshop for 
 <p align="center">
     <img src="./images/card/back.png" width=200 />
 </p>
-
-
 
 Once designed, the cards were made by [MakePlayingCards.com](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html). The Photoshop file including all card variations and the MakePlayingCards.com template is available [here](./assets/us_game_deck.psd). For around $20, they printed on high quality plastic and cut and shipped the cards.
 
