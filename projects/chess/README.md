@@ -38,17 +38,17 @@ Here is the final result:
 
 The goal of the cards was to make the disabilities clear and highlight them in a positive or neutral way, not as a limitation but simply part of the dogs life.
 
-Since WP Creative Pets moto is "Every Moment is a Training Moment" I wanted to incorporate it as part of the card set. With some ChatGPT we got to the approximate latin translation of "Omne Momentum Disciplina Est".
+Since WP Creative Pets moto is "Every Moment is a Training Moment" I wanted to incorporate it as part of the card set. With some ChatGPT help, I got to the approximate latin translation of "Omne Momentum Disciplina Est".
 
 <p align="center">
     <img src="./images/card/moto.png" width=200 />
 </p>
 
-Font-wise I choose Trajan Pro for both the moto and the title since it seemed to pair well with Roboto for the body. There, legibility was the main concern, particularly since the cards are already small and the whole point of this exercise is accessibility / not being limited by disabilities.
+Font-wise I choose Trajan Pro for both the moto and the title since it seemed to pair well with the card style. OpenDyslexicAlta for the body was choosen for legibility and accessibility, particularly since the whole point of this exercise is to not be limited by disabilities.
 
-| Trajan Pro | Roboto |
+| Trajan Pro | Open Dyslexic Alta |
 | - | - |
-| ![Trajan Pro Sample](./images/font/trajan-pro.png) | ![Roboto Black Sample](./images/font/roboto.png) |
+| ![Trajan Pro Sample](./images/font/trajan-pro.png) | ![Open Dyslexic Alta Sample](./images/font/OpenDyslexicAlta.png) |
 
 The rest of the card art was generated with ChatGPT and edited in Photoshop for styling consistency. The back was the same for all cards:
 
@@ -56,5 +56,11 @@ The rest of the card art was generated with ChatGPT and edited in Photoshop for 
     <img src="./images/card/back.png" width=200 />
 </p>
 
-Once designed, the cards were made by [MakePlayingCards.com](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html). The Photoshop file including all card variations and the MakePlayingCards.com template is available [here](./assets/us_game_deck.psd). For around $20, they printed on high quality plastic and cut and shipped the cards.
+Once designed, the cards were made by [MakePlayingCards.com](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html). The Photoshop file including all card variations and the MakePlayingCards.com template is available [here](./assets/tarot-size.psd). They printed on high quality plastic and cut and shipped the cards.
 
+An older iteration of the cards is also available [here](./assets/us_game_deck.psd) but decided against it due to their smaller size which impacted readability, and, ultimately, I wasn't happy with my first design. If you are curious about it, this is how they looked like:
+
+
+<img style="float: left; margin-left:15px" src="./images/card/wrapped.jpeg" width=200 alt="printed and plastic wrapped cards, showing kingly the great dane on top of the stack" />
+<img style="float: left; margin-left:15px" src="./images/card/pawn4-old.png" width=200 alt="card front side, showing pawn 4, pillow the chihuahua" />
+<img style="float: left; margin-left:15px" src="./images/card/back2.png" width=200 alt="card back side" />
