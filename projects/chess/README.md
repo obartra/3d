@@ -125,6 +125,11 @@ Once designed, the cards were made by [MakePlayingCards.com](https://www.makepla
 An older iteration of the cards is also available [here](./assets/us_game_deck.psd) but decided against it due to their smaller size which impacted readability, and, ultimately, I wasn't happy with my first design. If you are curious about it, this is how they looked like:
 
 
-<img style="float: left; margin-left:15px" src="./images/card/wrapped.jpeg" width=200 alt="printed and plastic wrapped cards, showing kingly the great dane on top of the stack" />
-<img style="float: left; margin-left:15px" src="./images/card/pawn4-old.png" width=200 alt="card front side, showing pawn 4, pillow the chihuahua" />
-<img style="float: left; margin-left:15px" src="./images/card/back2.png" width=200 alt="card back side" />
+| Printed | Front | Back |
+| - | - | - |
+| <img src="./images/card/wrapped.jpeg" width=200 alt="Printed card featuring 'Kingly the Great Dane' with a three-legged Great Dane illustration, surrounded by decorative elements and text describing his story. The card is encased in plastic wrap, placed on a wooden surface. The bottom banner reads 'Omnis Momentum Disciplinae.'" /> | <img src="./images/card/pawn4-old.png" width=200 alt="Ornate vintage-style illustration featuring a Chihuahua in a circular frame topped with a crown and flanked by checkered shields. The text reads: 'Pillow the Chihuahua. Pillow finds solace in the support of his orthopedic throne, a bastion amidst the trials of degenerative disc disease. Each calculated shuffle along the checkered squares is proof of his endurance.' At the bottom, a banner reads 'Omne Momentum Disciplina Est.' The design includes chess piece icons and decorative elements in shades of beige and black." /> | <img src="./images/card/back2.png" width=200 alt="Ornate vintage-style illustration featuring a long-haired dog wearing a crown, framed by intricate floral and scrollwork designs. Three banners surround the dog, with the text: 'The Differently-Abled' at the top, 'Dog Chess Set' in the middle, and 'WP Creative Pets' at the bottom. The design is in shades of black, brown, and beige, giving it an antique look." /> |
+
+## Board
+
+The chess board was meant to represent a dog park, with half the tiles representing "sand" and the other half "grass", with a road surrounding the board.
+
