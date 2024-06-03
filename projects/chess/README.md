@@ -140,11 +140,41 @@ An older iteration of the cards is also available [here](./assets/us_game_deck.p
 
 ## Board
 
-The chess board was meant to represent a dog park, with half the tiles representing "sand" and the other half "grass," with a road surrounding the board.
+The chessboard was meant to represent a dog park, with half the tiles representing "sand" and the other half "grass," with a road surrounding the board.
 
 ### Board Design and Construction
 
-(add details about the materials, design considerations, and construction process for the chess board, including any challenges faced and how they were overcome.)
+A chessboard is composed of 4 quadrants, each repeated twice:
+
+| A | B |
+| - | - |
+| B | A |
+
+Representing the grass required several iterations, finally landing on this pattern that printed as a small series of thin, hair-like strands:
+
+![](./images/board/grass-printing.gif)
+
+Other approaches I had tried worked well for printing faux grass at a larger scale but not for the dimensions needed for the chess tiles. The holes were filled with the sand tiles, which, to increase the resolution of the sand, were printed vertically (since the printer has higher resolution on the Z axis).
+
+![](./images/board/first-sand-tile.jpeg)
+
+Once the 4 grass quadrants were printed and filled with the sand tiles, they were assembled. To give the board a weighted feel, I placed them on top of a metal sheet. I used <https://www.onlinemetals.com>, which offers custom cuts, allowing me to order an already cut-to-size sheet. Using ChatGPT, I determined that the best-suited material for my purposes was a 6061 Aluminum alloy. This was to ensure it was strong enough to support the board without bending and add some extra weight, keeping it within the 2 to 5 lbs range while being affordable. The final dimensions were a bit smaller than the standard chessboard at 13.75"x13.75".
+
+![](./images/board/pre-assembled.jpeg)
+
+For the border, I used D&D tiles that already looked like pavement and added different scenes with dogs relaxing, playing, and trying to grab some bones and fruit.
+
+| Bone Pit | Carrot Thief | Chilling Chihuahua | Dog Meeting |
+| - | - | - | - |
+| ![](./images/board/side-bones.jpeg) | ![](./images/board/side-boxes.jpeg) | ![](./images/board/side-chihuahua.jpeg) | ![](./images/board/side-hydrant.jpeg) |
+
+I tried to cover the gaps between the quadrants using a 3D pen and sanding the excess, but in the end, they were still fairly visible.
+
+Finally, I covered the surface using UV resin again. I wish I had taken into account the gaps because they ended up causing some large bubbles. The heated resin also completely destroyed the grass. Overall, this was my biggest regret in the design. You can see it below:
+
+| With Resin | Without Resin |
+| - | - |
+| ![](./images/board/full.jpeg) | ![](./images/board/assembled.jpeg) |
 
 ## Box
 
