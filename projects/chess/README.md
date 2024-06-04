@@ -60,10 +60,10 @@ If you haven’t used UV resin before (like me), the process is straightforward 
 
 | Material | Image |
 | - | - |
-| [UV resin](https://a.co/d/ezitsoy) | <img src="./images/materials/resin.jpg" height="200" /> |
-| [UV light](https://a.co/d/ezitsoy) | <img src="./images/materials/uvlight.webp" height="200" /> |
-| [Protective Goggles](https://a.co/d/0IKj0s0) | <img src="./images/materials/uvgoggles.jpg" height="200" /> |
-| [Protective Gloves](https://a.co/d/9HWPJkN) | <img src="./images/materials/gloves.webp" height="200" /> |
+| [UV resin](https://a.co/d/ezitsoy) | <img src="./images/materials/resin.jpg" width="200" /> |
+| [UV light](https://a.co/d/ezitsoy) | <img src="./images/materials/uvlight.webp" width="200" /> |
+| [Protective Goggles](https://a.co/d/0IKj0s0) | <img src="./images/materials/uvgoggles.jpg" width="200" /> |
+| [Protective Gloves](https://a.co/d/9HWPJkN) | <img src="./images/materials/gloves.webp" width="200" /> |
 | [Protective Coat](https://a.co/d/4McWedg) | <img src="./images/materials/coat.webp" height="200" /> |
 
 With it, we are ready to science! The resin will have a specific curing time; check the bottle and follow instructions. You’ll want to cure it until it’s dry enough that touching it with the gloves doesn’t leave any prints but not longer to avoid overcuring.
@@ -152,33 +152,48 @@ A chessboard is composed of 4 quadrants, each repeated twice:
 
 Representing the grass required several iterations, finally landing on this pattern that printed as a small series of thin, hair-like strands:
 
-![](./images/board/grass-printing.gif)
+![3D printer creating the green tiles representing 'grass' for a dog park-themed chessboard. The nozzle moves back and forth, depositing green filament layer by layer. The tile gradually takes shape with a detailed texture, contrasting with the surroundings.](./images/board/grass-printing.gif)
 
 Other approaches I had tried worked well for printing faux grass at a larger scale but not for the dimensions needed for the chess tiles. The holes were filled with the sand tiles, which, to increase the resolution of the sand, were printed vertically (since the printer has higher resolution on the Z axis).
 
-![](./images/board/first-sand-tile.jpeg)
+![Close-up of a green 'grass' quadrant for the dog park-themed chessboard, featuring a textured surface. A white 'sand' tile is placed in one of the spaces, contrasting with the green 'grass' tiles surrounding it. The 'sand' tile has a smooth, wavy texture, highlighting the difference between the two tile types.](./images/board/first-sand-tile.jpeg)
 
-Once the 4 grass quadrants were printed and filled with the sand tiles, they were assembled. To give the board a weighted feel, I placed them on top of a metal sheet. I used <https://www.onlinemetals.com>, which offers custom cuts, allowing me to order an already cut-to-size sheet. Using ChatGPT, I determined that the best-suited material for my purposes was a 6061 Aluminum alloy. This was to ensure it was strong enough to support the board without bending and add some extra weight, keeping it within the 2 to 5 lbs range while being affordable. The final dimensions were a bit smaller than the standard chessboard at 13.75"x13.75".
+Once the 4 grass quadrants were printed and filled with the sand tiles, they were assembled. Since the board tiles were fairly hollow, to give them a weighted feel, I glued them on top of a metal sheet. I used <https://www.onlinemetals.com>, which offers custom cuts, allowing me to order an already cut-to-size sheet.
 
-![](./images/board/pre-assembled.jpeg)
+Using ChatGPT, I determined that the best-suited material for my purposes was a 6061 Aluminum alloy. This was to ensure it was strong enough to support the board without bending and add some extra weight, while being affordable. The final dimensions were a roughly half the size than a standard chessboard at 13.75"x13.75".
 
-For the border, I used D&D tiles that already looked like pavement and added different scenes with dogs relaxing, playing, and trying to grab some bones and fruit.
+![Pre-assembled dog park-themed chessboard with alternating green 'grass' and white 'sand' tiles. The textured green tiles contrast with the smooth, wavy white tiles, creating a checkerboard pattern. Some tiles are stacked in the background, and the board is partially assembled on a work surface, showing the progress of the project.](./images/board/pre-assembled.jpeg)
+
+For the border, I used [these tiles](https://www.thingiverse.com/thing:2480607) I found on Thingiverse that already looked like pavement and added different scenes with dogs relaxing, playing, and trying to grab some bones and fruit.
 
 | Bone Pit | Carrot Thief | Chilling Chihuahua | Dog Meeting |
 | - | - | - | - |
-| ![](./images/board/side-bones.jpeg) | ![](./images/board/side-boxes.jpeg) | ![](./images/board/side-chihuahua.jpeg) | ![](./images/board/side-hydrant.jpeg) |
+| ![Corner of a dog park-themed chessboard with gray 'walk paths' featuring detailed textures. A small dog figurine is positioned near a circular well, adding a scene to the corner. The checkerboard pattern consists of alternating green 'grass' tiles and white 'sand' tiles. The gray paths provide a realistic backdrop, contrasting with the vibrant colors of the tiles.](./images/board/side-bones.jpeg) | ![Close-up of a corner section of the dog park-themed chessboard, showing detailed gray 'walk paths' with dog figurines and various objects. Two dog figurines, one standing with a carrot on his mouth and one sitting, are positioned near crates filled with food. The crates and the dogs add a realistic scene to the corner. In the background, the checkerboard pattern of alternating green 'grass' and white 'sand' tiles is visible, providing a vibrant contrast to the gray path and figures.](./images/board/side-boxes.jpeg) | ![Corner section of the dog park-themed chessboard, showing a detailed gray 'walk path' with a small Chihuahua figurine in the center. The background features the alternating green 'grass' and white 'sand' tiles of the chessboard, creating a vibrant checkerboard pattern. The gray path and the tiny dog figurine add a realistic scene to the edge of the board, contrasting with the colorful tiles.](./images/board/side-chihuahua.jpeg) | ![Corner section of the dog park-themed chessboard, featuring a detailed gray 'walk path' with small dog figurines and a fire hydrant. One dog is standing near the hydrant, while another sits beside a ball. The background shows the checkerboard pattern of alternating green 'grass' and white 'sand' tiles, creating a vibrant contrast to the gray path and figures. The scene adds a playful and realistic touch to the edge of the board.](./images/board/side-hydrant.jpeg) |
 
 I tried to cover the gaps between the quadrants using a 3D pen and sanding the excess, but in the end, they were still fairly visible.
 
-Finally, I covered the surface using UV resin again. I wish I had taken into account the gaps because they ended up causing some large bubbles. The heated resin also completely destroyed the grass. Overall, this was my biggest regret in the design. You can see it below:
+Finally, I covered the surface using UV resin again. I wish I had taken into account the gaps because they ended up causing some large bubbles. The heated resin also dissolved the grass threads which was unfortunate. You can see how it looked with and without resin below:
 
 | With Resin | Without Resin |
 | - | - |
-| ![](./images/board/full.jpeg) | ![](./images/board/assembled.jpeg) |
+| ![Fully assembled chessboard with all the chess pieces in place, positioned on a wooden table. The pieces are arranged for a game, with white pieces on one side and gray pieces on the other. The board and pieces have a shiny, wet appearance due to the application of UV resin, which enhances their texture and detail. The resin adds a glossy finish, making the colors and details more vibran](./images/board/full.jpeg) | ![Partially assembled dog park-themed chessboard on a wooden table. The board has alternating green 'grass' and white 'sand' tiles, bordered by detailed gray 'walk paths' with small dog figurines and other elements. Tools and supplies, including tape and spray paint, are scattered around the table. Two chess pieces, a knight and a rook, are placed on the board, but UV resin has not been applied](./images/board/assembled.jpeg) |
 
 ## Box
 
-The box for the chess set needed to be as special as the pieces themselves. I decided to create a puzzle box that would not only store the pieces securely but also add an element of fun and intrigue.
+I couldn't use the 3d printer for the box since it was so much larger than the chessboard and it being a single solid piece makes it easier to reliably hold the chessboard.
+
+Since the chessboard is 13.75"x13.75", I was able to repurpose a 14" pizza box. I painted it purple and stenciled in a chess piece with a dog head as a logo. For protection I added a clear [polycrylic](https://a.co/d/cTNn0YK) coat. You can see the process below:
+
+| Step | Image |
+| - | - |
+| Initial Design | <img alt="black and white SVG design of the stencil used for the project. The design is a stylized chess knight piece with a dog's head, ready to be cut out and used as a stencil for painting." src="./images/box/stencil.svg" width="200" /> |
+| Create stencil | <img alt="A green cutting mat on a cluttered table. On the mat is a black and white printout of a stencil design resembling a chess knight piece with a dog head. Various tools like a utility knife, a ruler, and a pen are scattered around. The table also has other items, including tape, ginger roots, a glass vase with flowers, and a small, purple container." src="./images/box/stencil-design.jpeg" width="200" /> |
+| Spray Paint | <img alt="Stencil design being spray-painted onto a surface, taped down with blue painter's tape. The design, a chess knight piece with a dog's head, is being sprayed black. The background includes cardboard and some greenery, indicating the painting is taking place outdoors on a workbench or similar setup" src="./images/box/stencil-spray.jpeg" width="200" /> |
+| Painted |  <img alt="A purple repurposed pizza box with a black stencil design sprayed onto it. The design depicts a chess knight piece with a dog's head, showcasing a bold and clean look. The background includes some flowers in a vase, suggesting the box is in a kitchen or living area." src="./images/box/stencil-repainted.jpeg" width="200" /> |
+
+For the inside, I used the same felt than for the chess pieces and added a Braille sign with a link to this post. There's also a QR code linking to it:
+
+TODO: Add inside image
 
 ### Box Design
 
