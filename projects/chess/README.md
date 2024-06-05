@@ -1,23 +1,23 @@
 # The Differently-abled Chess Set
 
-This project is a tribute to our dog trainer, Casey Buckley, who runs [WP Creative Pets](https://www.wpcreativepets.com/). If you have a dog, particularly a reactive dog, and are in the Philadelphia area, you won't find a better trainer. She readily adapts to different teaching styles, is trauma-informed, queer-friendly, and extremely talented.
+This project is a tribute to our dog trainer, Casey Buckley, who runs [WP Creative Pets](https://www.wpcreativepets.com/). If you have a dog, especially a reactive one, and are in the Philadelphia area, you won't find a better trainer. She readily adapts to different teaching styles, is trauma-informed, queer-friendly, and extremely talented.
 
 ## Background
 
-Our doggo, Iroh, had some anxiety issues that we weren't able to overcome until we contacted her. Here he is now, being a good boy:
+Our dog, Iroh, had some anxiety issues that we couldn't overcome until we contacted her. Here he is now, being a good boy:
 
 <p align="center">
-    <img alt="Black and white pitbull husky mix dog with a blue collar and tags sitting on a path covered in pink flower petals, with trees and greenery lining the path in the background on a sunny day." src="./images/Iroh.png" width=200 />
+    <img alt="Black and white pitbull husky mix dog with a blue collar and tags sitting on a path covered in pink flower petals, with trees and greenery lining the path in the background on a sunny day." src="./images/Iroh.png" width="200" />
 </p>
 
-As a thank you for her tireless work, I wanted to create a 3D project that served both as practice for myself, as I'm learning 3D printing, and to honor her work. Knowing she collects unique chess sets, I decided to build her a custom chess set for dogs with disabilities. It was important to me that these were displayed with normalcy and focusing on the positive rather than any limiting aspects since that would more accurately capture her focus and her work.
+As a thank you for her tireless work, I wanted to create a 3D project that served both as practice for myself, as I'm learning 3D printing, and to honor her work. Knowing she collects unique chess sets, I decided to build her a custom chess set featuring dogs with disabilities. It was important that these were displayed with normalcy and focusing on the positive rather than any limiting aspects since that would more accurately capture her focus and her work.
 
 ## Chess Pieces
 
 I found [this chess set](https://www.thingiverse.com/thing:5590380) on Thingiverse that was both adorable and a great starting point.
 
 <p align="center">
-    <img alt="Six white 3D-printed chess pieces resembling dogs, including two with crowns, and a small doghouse, all placed on a green surface. This image shows the original chess set design that inspired the differently-abled dog chess set." src="./images/reference-set.png" width=400 />
+    <img alt="Six white 3D-printed chess pieces resembling dogs, including two with crowns, and a small doghouse, all placed on a green surface. This image shows the original chess set design that inspired the differently-abled dog chess set." src="./images/reference-set.png" width="400" />
 </p>
 
 ### 3D Model Ideation and Design
@@ -36,9 +36,9 @@ The next step was to figure out which disabilities to highlight. I used ChatGPT 
 | Pawns 5 & 6 | Anxiety disorder | Medication |
 | Pawns 7 & 8 | Degenerative disc disease | Orthopedic bed |
 
-Next step was to figure out how to represent these disabilities in the models. I was able to incorporate some additional designs from Thingiverse into it and create the rest.
+The next step was to figure out how to represent these disabilities in the models. I incorporated some additional designs from Thingiverse into the project and created the rest.
 
-For instance, the bishop's wheelchair was based off [this model](https://www.thingiverse.com/thing:1397964):
+For instance, the bishop's wheelchair was based on [this model](https://www.thingiverse.com/thing:1397964):
 
 ![Small Chihuahua in a 3D-printed neon green and black wheelchair, barking or howling, against a bright yellow background.](./images/figowebp.webp)
 
@@ -48,7 +48,7 @@ The final rendering looked like this:
 
 ### 3D Printing Process
 
-I wanted them to feel heavy, so I printed them with a full infill. I used a small (0.12mm) layer height to try to capture the small details from the model as well as possible.
+I wanted them to feel heavy, so I printed them with a full infill. I used a small (0.12mm) layer height to capture the small details from the model as well as possible.
 
 It took a couple of iterations to figure out how to best print them; some, like the king and the bishop, printed better without supports. Others, like the queen (for the cone) and the knight (for the halo), needed them.
 
@@ -74,7 +74,7 @@ After the resin was applied, and to make sure the pieces glided through the ches
 
 Here is the final result:
 
-| Chess Piece | Disability | 3d Render | Printed |
+| Chess Piece | Disability | 3D Render | Printed |
 | - | - | - | - |
 | King | Amputation | ![](./images/render/king.png) | ![](./images/print/king.png) |
 | Queen | Temporary / Post-Surgery | ![](./images/render/queen.png) | ![](./images/print/queen.png) |
@@ -90,7 +90,8 @@ Here is the final result:
 
 The goal of the cards was to make the disabilities displayed in the chess pieces more clear while highlighting them in a positive or neutral way, not as a limitation but simply part of the dog's life.
 
-I used ChatGPT to get inspiration in different styles; ultimately, I went with the ornate, antique look:
+I used ChatGPT to get inspiration in different styles
+; ultimately, I went with the ornate, antique look:
 
 | Antique | Eco-Friendly | Modern |
 | - | - | - |
@@ -99,7 +100,7 @@ I used ChatGPT to get inspiration in different styles; ultimately, I went with t
 Since WP Creative Pets' motto is "Every Moment is a Training Moment," I wanted to incorporate it as part of the card set. With some more ChatGPT help, I got to the approximate Latin translation of "Omne Momentum Disciplina Est."
 
 <p align="center">
-    <img src="./images/card/moto.png" width=200 alt="Ornate vintage-style illustration featuring a decorative floral frame with a circular empty center and banners reading 'Omne Momentum' at the top and 'Disciplina Est' at the bottom, in shades of brown and beige" />
+    <img src="./images/card/moto.png" width="200" alt="Ornate vintage-style illustration featuring a decorative floral frame with a circular empty center and banners reading 'Omne Momentum' at the top and 'Disciplina Est' at the bottom, in shades of brown and beige" />
 </p>
 
 ### Fonts and Design
@@ -118,7 +119,7 @@ Font-wise, I chose Trajan Pro for both the motto and the title since it seemed t
 | Queen | <img src="./images/card/queen.png" alt="Ornate vintage-style illustration featuring an Afghan Hound in a decorative floral frame. Text reads: 'Queenie the Afghan. Queenie's elegance transcends the chessboard, her cone a temporary emblem of her recent surgery. With a tactician's grace, her moves are a silent testament to her resilient spirit.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" width="200" /> |
 | Bishop | <img src="./images/card/bishop.png" alt="Ornate vintage-style illustration featuring an Akita in a wheelchair within a decorative floral frame. Text reads: 'Bishop the Akita. Bishop the Akita wheels his way across the chessboard, a beacon of hope for all who face challenges. His wheelchair does not confine him; it is his chariot, ferrying him from one victory to another.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" width="200" /> |
 | Knight | <img src="./images/card/knight.png" width="200" alt="Ornate vintage-style illustration featuring a Boxer with sightless eyes in a decorative floral frame. Text reads: 'Knightly the Boxer. Knightly, the sightless sentinel of the chessboard, possesses a courage that resonates beyond the visual realm. His halo is not merely a guide but a symbol of his heightened awareness.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
-| Rook |<img src="./images/card/rook.png" width="200" alt="Ornate vintage-style illustration featuring a Mongrel in a decorative floral frame. Text reads: 'Rocky the Mongrel. Rocky, with arthritis and a steadfast defender of the kingdom, guards the ramparts with an unyielding spirit. The ramp beside his doghouse is not a sign of weakness but a testament to his adaptability.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
+| Rook | <img src="./images/card/rook.png" width="200" alt="Ornate vintage-style illustration featuring a Mongrel in a decorative floral frame. Text reads: 'Rocky the Mongrel. Rocky, with arthritis and a steadfast defender of the kingdom, guards the ramparts with an unyielding spirit. The ramp beside his doghouse is not a sign of weakness but a testament to his adaptability.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
 | Pawns 1 & 2 | <img src="./images/card/pawn1.png" width="200" alt="Ornate vintage-style illustration featuring a Chihuahua in a decorative floral frame. Text reads: 'Pebbles the Chihuahua. Pebbles stands as a beacon of perseverance, navigating life with megaesophagus. His nourishment comes in gentle, careful sips from a specially designed feeding bottle, making every meal a triumph over adversity.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
 | Pawns 3 & 4 | <img src="./images/card/pawn2.png" width="200" alt="Ornate vintage-style illustration featuring a Chihuahua in a decorative floral frame. Text reads: 'Poppy the Chihuahua. Poppy, with Sensory Processing Disorder—but no outward sign of her challenges—moves with ethereal grace on the chessboard, her senses tuned to a different frequency than her fellow canines.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
 | Pawns 5 & 6 | <img src="./images/card/pawn3.png" width="200" alt="Ornate vintage-style illustration featuring a Chihuahua in a decorative floral frame. Text reads: 'Patch the Chihuahua. Patch moves through the chessboard with anxiety but also with unwavering resolve. Her careful steps are paired with deep breaths, as she has mastered the art of tranquil focus.' At the top, a banner reads 'Omne Momentum Disciplina Est.'" /> |
@@ -127,7 +128,7 @@ Font-wise, I chose Trajan Pro for both the motto and the title since it seemed t
 The back was the same for all cards:
 
 <p align="center">
-    <img src="./images/card/back.png" width=200 alt="An ornate vintage-style card with floral and scrollwork design framing text: 'WP Creative Pets The Differently-Abled Dog Chess Set' in a decorative serif font." />
+    <img src="./images/card/back.png" width="200" alt="An ornate vintage-style card with floral and scrollwork design framing text: 'WP Creative Pets The Differently-Abled Dog Chess Set' in a decorative serif font." />
 </p>
 
 Once designed, the cards were made by [MakePlayingCards.com](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html). The Photoshop file including all card variations and the MakePlayingCards.com template is available [here](./assets/tarot-size.psd). They printed on high-quality plastic and cut and shipped the cards.
@@ -136,7 +137,7 @@ An older iteration of the cards is also available [here](./assets/us_game_deck.p
 
 | Printed | Front | Back |
 | - | - | - |
-| <img src="./images/card/wrapped.jpeg" width=200 alt="Printed card featuring 'Kingly the Great Dane' with a three-legged Great Dane illustration, surrounded by decorative elements and text describing his story. The card is encased in plastic wrap, placed on a wooden surface. The bottom banner reads 'Omnis Momentum Disciplinae.'" /> | <img src="./images/card/pawn4-old.png" width=200 alt="Ornate vintage-style illustration featuring a Chihuahua in a circular frame topped with a crown and flanked by checkered shields. The text reads: 'Pillow the Chihuahua. Pillow finds solace in the support of his orthopedic throne, a bastion amidst the trials of degenerative disc disease. Each calculated shuffle along the checkered squares is proof of his endurance.' At the bottom, a banner reads 'Omne Momentum Disciplina Est.' The design includes chess piece icons and decorative elements in shades of beige and black." /> | <img src="./images/card/back2.png" width=200 alt="Ornate vintage-style illustration featuring a long-haired dog wearing a crown, framed by intricate floral and scrollwork designs. Three banners surround the dog, with the text: 'The Differently-Abled' at the top, 'Dog Chess Set' in the middle, and 'WP Creative Pets' at the bottom. The design is in shades of black, brown, and beige, giving it an antique look." /> |
+| <img src="./images/card/wrapped.jpeg" width="200" alt="Printed card featuring 'Kingly the Great Dane' with a three-legged Great Dane illustration, surrounded by decorative elements and text describing his story. The card is encased in plastic wrap, placed on a wooden surface. The bottom banner reads 'Omnis Momentum Disciplinae.'" /> | <img src="./images/card/pawn4-old.png" width="200" alt="Ornate vintage-style illustration featuring a Chihuahua in a circular frame topped with a crown and flanked by checkered shields. The text reads: 'Pillow the Chihuahua. Pillow finds solace in the support of his orthopedic throne, a bastion amidst the trials of degenerative disc disease. Each calculated shuffle along the checkered squares is proof of his endurance.' At the bottom, a banner reads 'Omne Momentum Disciplina Est.' The design includes chess piece icons and decorative elements in shades of beige and black." /> | <img src="./images/card/back2.png" width="200" alt="Ornate vintage-style illustration featuring a long-haired dog wearing a crown, framed by intricate floral and scrollwork designs. Three banners surround the dog, with the text: 'The Differently-Abled' at the top, 'Dog Chess Set' in the middle, and 'WP Creative Pets' at the bottom. The design is in shades of black, brown, and beige, giving it an antique look." /> |
 
 ## Board
 
@@ -226,4 +227,4 @@ To keep the pieces organized and protected, I designed a custom holder. It was m
 
 ### Call to Action
 
-Thank you for taking the time to read about the Differently-abled Chess Set. If you have any questions, or feedback, please reach out.
+Thank you for taking the time to read about the Differently-abled Chess Set. If you have any questions or feedback, please reach out.
