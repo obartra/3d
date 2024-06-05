@@ -200,6 +200,8 @@ For the inside, I wanted to add a Braille sign since we have a blind dog in the 
 
 There's also a QR code that links to this page. I generated it using <https://printer.tools/qrcode2stl>.
 
+![A 3D render of a QR code with an information icon in the center and a square border around the entire code. The QR code appears raised from a flat surface, and the text "bit.ly/dogchess" is embossed along the bottom edge. The overall design is set against a dark grid background.](./images/qr/render.png)
+
 For both the Braille and QR code, we need to add a pause to change the filament since my printer doesn't support multi-material prints. We can do so by adding `M600` to the generated G-code. For example, to add a pause between layers 29 and 30, we would do:
 
 ```gcode
