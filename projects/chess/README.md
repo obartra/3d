@@ -1,6 +1,6 @@
-# The Differently-abled Chess Set
+# The Differently-Abled Chess Set
 
-This project is a tribute to our dog trainer, Casey Buckley, who runs [WP Creative Pets](https://www.wpcreativepets.com/). If you have a dog, especially a reactive one, and are in the Philadelphia area, you won't find a better trainer. She readily adapts to different teaching styles, is trauma-informed, queer-friendly, and extremely talented.
+This project is a tribute to my dog trainer, Casey Buckley, who runs [WP Creative Pets](https://www.wpcreativepets.com/). If you have a dog, especially a reactive one, and are in the Philadelphia area, you won't find a better trainer. She readily adapts to different teaching styles, is trauma-informed, queer-friendly, and extremely talented.
 
 ## Background
 
@@ -10,7 +10,7 @@ Our dog, Iroh, had some anxiety issues that we couldn't overcome until we contac
     <img alt="Black and white pitbull husky mix dog with a blue collar and tags sitting on a path covered in pink flower petals, with trees and greenery lining the path in the background on a sunny day." src="./images/Iroh.png" width="200" />
 </p>
 
-As a thank you for her tireless work, I wanted to create a 3D project that served both as practice for myself, as I'm learning 3D printing, and to honor her work. Knowing she collects unique chess sets, I decided to build her a custom chess set featuring dogs with disabilities. It was important that these were displayed with normalcy and focusing on the positive rather than any limiting aspects since that would more accurately capture her focus and her work.
+As a thank you for Casey's tireless work and her impact on Iroh, I wanted to make a 3D project that served both as practice for myself, as I'm learning 3D printing, and to honored her work. Knowing she collects unique chess sets, I decided to build her a custom chess set featuring dogs with disabilities. It was important that these were displayed with normalcy and focusing on the positive rather than any limiting aspects since that would more accurately capture her focus and her work.
 
 ## Chess Pieces
 
@@ -22,7 +22,7 @@ I found [this chess set](https://www.thingiverse.com/thing:5590380) on Thingiver
 
 ### 3D Model Ideation and Design
 
-The next step was to figure out which disabilities to highlight. I used ChatGPT to create a diverse list of disabilities to make the set as inclusive as possible while keeping it recognizable in the chess pieces.
+The idea was to create a set that not only represents different dog breeds but also highlights various disabilities in a positive and inclusive manner. I wanted to highlight a diverse range of disabilities to make the set as inclusive and representative as possible. These disabilities were chosen to reflect both visible and invisible conditions, temporary and permanent ones, aiming to bring awareness through chess.
 
 | Chess Piece | Disability | Adaptive Aid |
 | - | - | - |
@@ -48,7 +48,7 @@ The final rendering looked like this:
 
 ### 3D Printing Process
 
-I wanted them to feel heavy, so I printed them with a full infill. I used a small (0.12mm) layer height to capture the small details from the model as well as possible.
+To achieve the best results, I used a small layer height of 0.12mm to capture small details. The pieces are printed solid, making them heavier and more durable.
 
 It took a couple of iterations to figure out how to best print them; some, like the king and the bishop, printed better without supports. Others, like the queen (for the cone) and the knight (for the halo), needed them.
 
@@ -56,7 +56,7 @@ Since many had delicate details (like the knight's halo), I decided to coat them
 
 ### Using UV Resin
 
-If you haven’t used UV resin before (like me), the process is straightforward but requires some preparation. It’s important you never look directly into the UV light (to avoid risk of blindness) and ensure the resin doesn’t touch your skin. So, to be safe, you’ll need some gear:
+Using UV resin strengthens the pieces but requires safety precautions such as wearing protective gear. The process is straightforward but requires some preparation. Follow the resin’s instructions for curing time to avoid overcuring. Ensure you never look directly into the UV light and avoid skin contact with the resin.
 
 | Material | Image |
 | - | - |
@@ -65,8 +65,6 @@ If you haven’t used UV resin before (like me), the process is straightforward 
 | [Protective Goggles](https://a.co/d/0IKj0s0) | <img src="./images/materials/uvgoggles.jpg" width="200" /> |
 | [Protective Gloves](https://a.co/d/9HWPJkN) | <img src="./images/materials/gloves.webp" width="200" /> |
 | [Protective Coat](https://a.co/d/4McWedg) | <img src="./images/materials/coat.webp" height="200" /> |
-
-With it, we are ready to science! The resin will have a specific curing time; check the bottle and follow instructions. You’ll want to cure it until it’s dry enough that touching it with the gloves doesn’t leave any prints but not longer to avoid overcuring.
 
 After the resin was applied, and to make sure the pieces glided through the chessboard nicely, I used [green felt](https://a.co/d/2bVIOpZ).
 
@@ -88,10 +86,9 @@ Here is the final result:
 
 ## Cards
 
-The goal of the cards was to make the disabilities displayed in the chess pieces more clear while highlighting them in a positive or neutral way, not as a limitation but simply part of the dog's life.
+The goal of the cards was to make the disabilities displayed in the chess pieces more clear while highlighting them in a positive or neutral way, not as a limitation but simply part of the dog's life. 
 
-I used ChatGPT to get inspiration in different styles
-; ultimately, I went with the ornate, antique look:
+After exploring different styles, I chose an ornate, antique look.
 
 | Antique | Eco-Friendly | Modern |
 | - | - | - |
@@ -145,21 +142,17 @@ The chessboard is designed to represent a dog park, with half the tiles represen
 
 ### Board Design and Construction
 
-The chessboard is composed of four quadrants, each repeated twice:
+The chessboard represents a dog park with grass and sand tiles, surrounded by a road. The tiles were printed with detailed textures to mimic real-life surfaces. The chessboard is composed of four quadrants, each repeated twice:
 
 ![Diagram of a chessboard divided into four quadrants, each with a distinct pattern. The board shows that the diagonals from the bottom-left to the top-right and from the bottom-right to the top-left have consistent patterns. The quadrants are marked with different colors and hatching styles, with clear delineation to demonstrate the division and pattern consistency along the diagonals.](./images/chess-diagonals.png)
 
-Representing the grass required several iterations, finally landing on this pattern that printed as a small series of thin, hair-like strands:
+Representing the grass required several iterations, finally landing on this pattern that printed as a small series of thin, hair-like strands. The holes were filled with the sand tiles, which were printed vertically for better resolution.
 
 ![3D printer creating the green tiles representing 'grass' for a dog park-themed chessboard. The nozzle moves back and forth, depositing green filament layer by layer. The tile gradually takes shape with a detailed texture, contrasting with the surroundings.](./images/board/grass-printing.gif)
 
-Other approaches worked well for printing faux grass at a larger scale but not for the dimensions needed for the chess tiles. The holes were filled with the sand tiles, which were printed vertically to increase the resolution of the sand (since the printer has higher resolution on the Z axis).
-
 ![Close-up of a green 'grass' quadrant for the dog park-themed chessboard, featuring a textured surface. A white 'sand' tile is placed in one of the spaces, contrasting with the green 'grass' tiles surrounding it. The 'sand' tile has a smooth, wavy texture, highlighting the difference between the two tile types.](./images/board/first-sand-tile.jpeg)
 
-Once the four grass quadrants were printed and filled with the sand tiles, they were glued in place. Since the board tiles were fairly hollow, I glued them on top of a metal sheet to give them a weighted feel. I used <https://www.onlinemetals.com>, which offers custom cuts, allowing me to order a pre-cut sheet.
-
-Using ChatGPT, I determined that a 6061 Aluminum alloy was the best-suited material. It is strong enough to support the board without bending and adds some extra weight, while being affordable. The final dimensions were roughly half the size of a standard chessboard at 13.75"x13.75".
+Once the four grass quadrants were printed and filled with the sand tiles, I glued them in place on top of a metal sheet to give them a weighted feel. I used 6061 Aluminum alloy from <https://www.onlinemetals.com>, which offers custom cuts, allowing me to order a pre-cut sheet.
 
 ![Pre-assembled dog park-themed chessboard with alternating green 'grass' and white 'sand' tiles. The textured green tiles contrast with the smooth, wavy white tiles, creating a checkerboard pattern. Some tiles are stacked in the background, and the board is partially assembled on a work surface, showing the progress of the project.](./images/board/pre-assembled.jpeg)
 
@@ -169,7 +162,9 @@ For the border, I used [these tiles](https://www.thingiverse.com/thing:2480607) 
 
 | Bone Pit | Carrot Thief | Chilling Chihuahua | Dog Meeting |
 | - | - | - | - |
-| ![Corner of a dog park-themed chessboard with gray 'walk paths' featuring detailed textures. A small dog figurine is positioned near a circular well, adding a scene to the corner. The checkerboard pattern consists of alternating green 'grass' tiles and white 'sand' tiles. The gray paths provide a realistic backdrop, contrasting with the vibrant colors of the tiles.](./images/board/side-bones.jpeg) | ![Close-up of a corner section of the dog park-themed chessboard, showing detailed gray 'walk paths' with dog figurines and various objects. Two dog figurines, one standing with a carrot in his mouth and one sitting, are positioned near crates filled with food. The crates and the dogs add a realistic scene to the corner. In the background, the checkerboard pattern of alternating green 'grass' and white 'sand' tiles is visible, providing a vibrant contrast to the gray path and figures.](./images/board/side-boxes.jpeg) | ![Corner section of the dog park-themed chessboard, showing a detailed gray 'walk path' with a small Chihuahua figurine in the center. The background features the alternating green 'grass' and white 'sand' tiles of the chessboard, creating a vibrant checkerboard pattern. The gray path and the tiny dog figurine add a realistic scene to the edge of the board, contrasting with the colorful tiles.](./images/board/side-chihuahua.jpeg) | ![Corner section of the dog park-themed chessboard, featuring a detailed gray 'walk path' with small dog figurines and a fire hydrant. One dog is standing near the hydrant, while another sits beside a ball. The background shows the checkerboard pattern of alternating green 'grass' and white 'sand' tiles, creating a vibrant contrast to the gray path and figures. The scene adds a playful and realistic touch to the edge of the board.](./images/board/side-hydrant.jpeg) |
+| ![Corner of a dog park-themed chessboard with gray 'walk paths' featuring detailed textures. A small dog figurine is positioned near a circular well, adding a scene to the corner. The checkerboard pattern consists of alternating green 'grass' tiles and white 'sand' tiles. The gray paths provide a realistic backdrop, contrasting with the vibrant colors of the tiles.](./images/board/side-bones.jpeg) | ![Close-up of a corner section of the dog park-themed chessboard, showing detailed gray 'walk paths' with dog
+
+ figurines and various objects. Two dog figurines, one standing with a carrot in his mouth and one sitting, are positioned near crates filled with food. The crates and the dogs add a realistic scene to the corner. In the background, the checkerboard pattern of alternating green 'grass' and white 'sand' tiles is visible, providing a vibrant contrast to the gray path and figures.](./images/board/side-boxes.jpeg) | ![Corner section of the dog park-themed chessboard, showing a detailed gray 'walk path' with a small Chihuahua figurine in the center. The background features the alternating green 'grass' and white 'sand' tiles of the chessboard, creating a vibrant checkerboard pattern. The gray path and the tiny dog figurine add a realistic scene to the edge of the board, contrasting with the colorful tiles.](./images/board/side-chihuahua.jpeg) | ![Corner section of the dog park-themed chessboard, featuring a detailed gray 'walk path' with small dog figurines and a fire hydrant. One dog is standing near the hydrant, while another sits beside a ball. The background shows the checkerboard pattern of alternating green 'grass' and white 'sand' tiles, creating a vibrant contrast to the gray path and figures. The scene adds a playful and realistic touch to the edge of the board.](./images/board/side-hydrant.jpeg) |
 
 I tried to cover the gaps between the quadrants using a 3D pen and sanding the excess, but they were still fairly visible.
 
@@ -198,30 +193,17 @@ For the inside, I wanted to add a Braille sign since we have a blind dog in the 
 | - | - | - | - |
 | <img src="./images/braille/plain.png" width="200" alt="The text 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/contracted.png" width="200" alt="Contracted braille with corresponding translation: ',! ,di6}5tly-,a#d ,dog ,*ess , set4 ,made ) love 0,osc> ,b>tra = ,casey ,buckley1 ,,wp ,cr1tive ,pets1 & all h} pets4 ,le>n m at3 bit4ly_/dog*ess'" /> | <img src="./images/braille/braille.png" width="200" alt="Braille text representation of the following message: 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/render.png" width="200" alt="3D render of the braille text with a start arrow and a frame around it." /> |
 
-There's also a QR code that links to this page. I generated it using <https://printer.tools/qrcode2stl>.
+It took several attempts to achieve clear Braille text. There's also a QR code that links to this page. I generated it using <https://printer.tools/qrcode2stl>. Unfortunately, I wasn't able to print it in a way that looked good enough to include in the board. This was my best one:
 
-![A 3D render of a QR code with an information icon in the center and a square border around the entire code. The QR code appears raised from a flat surface, and the text "bit.ly/dogchess" is embossed along the bottom edge. The overall design is set against a dark grid background.](./images/qr/render.png)
+| Render | Result |
+| - | - |
+| ![A 3D render of a QR code with an information icon in the center and a square border around the entire code. The QR code appears raised from a flat surface, and the text "bit.ly/dogchess" is embossed along the bottom edge. The overall design is set against a dark grid background.](./images/qr/render.png) | ![A photograph of a failed 3D print of a QR code on a wooden surface. The print has significant stringing issues, with thin strands of filament connecting various parts of the QR code. The code is printed in black on a purple background, with the text "bit.ly/dogchess" at the bottom. The information icon is visible in the center of the code, and the print is bordered by a square frame. The surface of the print is uneven and messy due to the stringing.](./images/qr/attempt.png) |
 
-For both the Braille and QR code, we need to add a pause to change the filament since my printer doesn't support multi-material prints. We can do so by adding `M600` to the generated G-code. For example, to add a pause between layers 29 and 30, we would do:
+For both the Braille and QR code, I had to add a pause to change the filament since my printer doesn't support multi-material prints. To do this, add `M600` to the generated G-code where the pause should happen. If you are curious what happens when you add the pause at the wrong layer, you can see it here:
 
-```gcode
-;LAYER:29
-G1 X50.0 Y25.0 Z5.8 F9000 ; move to a position
-G1 F1800 E0 ; extrusion command
-; more commands for layer 29
-
-; Insert the pause command here
-M600 ; Pause to change filament
-
-;LAYER:30
-G1 X55.0 Y30.0 Z6.0 F9000 ; move to start of layer 30
-G1 F1800 E0 ; extrusion command
-; commands for layer 30
-```
+![A photograph of a failed 3D print of a braille board on a wooden surface. The print has a black top layer with visible braille dots, but the color change was applied incorrectly, resulting in the black filament being used on the last layer of the base part instead of the intended layer. The board is bordered by a purple frame, and the surface appears uneven and messy due to the filament color issue. The braille text is difficult to read because of the incorrect layer color change.](./images/braille/attempt-layer.png)
 
 Lastly, I used the same felt as for the chess pieces to cover the bottom of the inside of the box.
-
-TODO: Add inside image
 
 ## Pieces Holder
 
@@ -229,4 +211,6 @@ To keep the pieces organized and protected, I designed a custom holder. It was m
 
 ### Call to Action
 
-Thank you for taking the time to read about the Differently-abled Chess Set. If you have any questions or feedback, please reach out.
+Thank you for taking the time to read about the Differently-Abled Chess Set. 
+
+I’d love to hear your thoughts and suggestions. Please feel free to open a PR if you want to make any contributions: [GitHub PRs](https://github.com/obartra/3d/compare).
