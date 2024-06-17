@@ -124,9 +124,9 @@ Font-wise, I chose Trajan Pro for both the motto and the title since it seemed t
 
 The back was the same for all cards:
 
-<p align="center">
-    <img src="./images/card/back.png" width="200" alt="An ornate vintage-style card with floral and scrollwork design framing text: 'WP Creative Pets The Differently-Abled Dog Chess Set' in a decorative serif font." />
-</p>
+| Design | Printed |
+| - | - |
+| <img src="./images/card/back.png" height="320" alt="An ornate vintage-style card with floral and scrollwork design framing text: 'WP Creative Pets The Differently-Abled Dog Chess Set' in a decorative serif font." /> | <img src="./images/card/print-back-and-front.jpeg" height="320" alt="Four cards are displayed on a wooden surface. One card is fully visible, showing a detailed ornate design with a picture of an Akita dog, labeled 'Bishop the Akita.' The text describes Bishop as a dog in a wheelchair who is a beacon of hope and a symbol of overcoming challenges. The other three cards are facing back, partially visible, featuring ornate designs and the text 'WP Creative Pets - The Differently-Abled Dog Chess Set.'" /> |
 
 Once designed, the cards were made by [MakePlayingCards.com](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html). The Photoshop file including all card variations and the MakePlayingCards.com template is available [here](./assets/tarot-size.psd). They printed on high-quality plastic and cut and shipped the cards.
 
@@ -172,7 +172,7 @@ Finally, I covered the surface using UV resin again. I wish I had taken into acc
 | - | - |
 | ![Fully assembled chessboard with all the chess pieces in place, positioned on a wooden table. The pieces are arranged for a game, with white pieces on one side and gray pieces on the other. The board and pieces have a shiny, wet appearance due to the application of UV resin, which enhances their texture and detail. The resin adds a glossy finish, making the colors and details more vibrant.](./images/board/full.jpeg) | ![Partially assembled dog park-themed chessboard on a wooden table. The board has alternating green 'grass' and white 'sand' tiles, bordered by detailed gray 'walk paths' with small dog figurines and other elements. Tools and supplies, including tape and spray paint, are scattered around the table. Two chess pieces, a knight and a rook, are placed on the board, but UV resin has not been applied.](./images/board/assembled.jpeg) |
 
-## Box
+## Board Box
 
 I couldn't use the 3D printer for the box since it was much larger than the chessboard. Making it a single solid piece ensures it can reliably hold the chessboard.
 
@@ -187,15 +187,15 @@ Since the chessboard is 13.75"x13.75", I repurposed a 14" pizza box. I painted i
 
 For the inside, I wanted to add a Braille sign since we have a blind dog in the chess set. The text includes a link to this post. I used <https://touchsee.me> to generate the STL files for contracted (Grade 2) Braille so the text reads:
 
-| Plain Text | Contracted | Braille | Render |
-| - | - | - | - |
-| <img src="./images/braille/plain.png" width="200" alt="The text 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/contracted.png" width="200" alt="Contracted braille with corresponding translation: ',! ,di6}5tly-,a#d ,dog ,*ess , set4 ,made ) love 0,osc> ,b>tra = ,casey ,buckley1 ,,wp ,cr1tive ,pets1 & all h} pets4 ,le>n m at3 bit4ly_/dog*ess'" /> | <img src="./images/braille/braille.png" width="200" alt="Braille text representation of the following message: 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/render.png" width="200" alt="3D render of the braille text with a start arrow and a frame around it." /> |
+| Plain Text | Contracted | Braille | Render | Assembled |
+| - | - | - | - | - |
+| <img src="./images/braille/plain.png" width="200" alt="The text 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/contracted.png" width="200" alt="Contracted braille with corresponding translation: ',! ,di6}5tly-,a#d ,dog ,*ess , set4 ,made ) love 0,osc> ,b>tra = ,casey ,buckley1 ,,wp ,cr1tive ,pets1 & all h} pets4 ,le>n m at3 bit4ly_/dog*ess'" /> | <img src="./images/braille/braille.png" width="200" alt="Braille text representation of the following message: 'The Differently-Abled Dog Chess Set. Made with love by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets. Learn more at: bit.ly/dogchess'" /> | <img src="./images/braille/render.png" width="200" alt="3D render of the braille text with a start arrow and a frame around it." /> | <img src="./images/braille/assembled.jpeg" width="200" alt="A purple painted box containing a 3D printed chess set. The chessboard is visible on the top, featuring green and beige squares with a gray border. Inside the top fold of the box, there is a purple and black Braille text." /> |
 
-It took several attempts to achieve clear Braille text. There's also a QR code that links to this page. I generated it using <https://printer.tools/qrcode2stl>. Unfortunately, I wasn't able to print it in a way that looked good enough to include in the board. This was my best one:
+It took several attempts to achieve clear Braille text. There's also a QR code that links to this page. I generated it using <https://printer.tools/qrcode2stl>. Unfortunately, I wasn't able to print it in a way that looked good enough to include in the board. Ultimately, I made an additional card with the QR code instead.
 
-| Render | Result |
-| - | - |
-| ![A 3D render of a QR code with an information icon in the center and a square border around the entire code. The QR code appears raised from a flat surface, and the text "bit.ly/dogchess" is embossed along the bottom edge. The overall design is set against a dark grid background.](./images/qr/render.png) | ![A photograph of a failed 3D print of a QR code on a wooden surface. The print has significant stringing issues, with thin strands of filament connecting various parts of the QR code. The code is printed in black on a purple background, with the text "bit.ly/dogchess" at the bottom. The information icon is visible in the center of the code, and the print is bordered by a square frame. The surface of the print is uneven and messy due to the stringing.](./images/qr/attempt.png) |
+| Render | Result | Card |
+| - | - | - |
+| ![A 3D render of a QR code with an information icon in the center and a square border around the entire code. The QR code appears raised from a flat surface, and the text "bit.ly/dogchess" is embossed along the bottom edge. The overall design is set against a dark grid background.](./images/qr/render.png) | ![A photograph of a failed 3D print of a QR code on a wooden surface. The print has significant stringing issues, with thin strands of filament connecting various parts of the QR code. The code is printed in black on a purple background, with the text "bit.ly/dogchess" at the bottom. The information icon is visible in the center of the code, and the print is bordered by a square frame. The surface of the print is uneven and messy due to the stringing.](./images/qr/attempt.png) | ![A card with an ornate, floral frame around a QR code. The card contains the following text: 'obarta.github.io/3d/projects/chess Made with ❤️ by Oscar Bartra for Casey Buckley, WP Creative Pets, and all her pets'](./images/card/print-qr.png) |
 
 For both the Braille and QR code, I had to add a pause to change the filament since my printer doesn't support multi-material prints. To do this, add `M600` to the generated G-code where the pause should happen. If you are curious what happens when you add the pause at the wrong layer, you can see it here:
 
@@ -205,10 +205,18 @@ Lastly, I used the same felt as for the chess pieces to cover the bottom of the 
 
 ## Pieces Holder
 
-To keep the pieces organized and protected, I designed a custom holder. It was meant to be transparent, using transparent filament, but given the complexity of the box design, it ended up being just translucent. I tried minimizing the infill, making it concentric with different layer heights. I also did some long acetone vapor baths, but in the end, none of these options seemed to make much of a difference. I suspect a single-wall design would have been the only option, but it was not feasible for the box if it was meant to hold the pieces in place.
+To keep the pieces organized and protected, I designed a custom box. It's a bit bulky but I wanted the holder inside to double as a stand for the pieces so they can be more easily displayed. The box is a square cube with an insert inside meant to help minimize the piece movement. The front of the box has a lid that slides in and has the same dog chess piece image that we stenciled in for the board box.
 
-### Call to Action
+| Design | Open | Partially Open | Closed |
+| - | - | - | - |
+| ![A 3D render of a chess piece stand design inside a rectangular box. The render shows a stylized knight chess piece with a dog head, and several compartments for holding chess pieces.](./images/piece-box/box-set-design.png) | TODO | ![A purple box with the lid partially open, revealing the black chess piece stand inside. The stand holds multiple beige chess pieces, arranged neatly in their respective compartments.](./images/piece-box//partially-open.jpeg) | ![A closed purple box with a black stylized knight chess piece featuring a dog head on the side. The box is placed on a light-colored wooden surface.](./images/piece-box/closed.jpeg) |
 
-Thank you for taking the time to read about the Differently-Abled Chess Set. 
+### Summary
+
+And that's it! Thanks for taking the time to read about the Differently-Abled Chess Set. 
+
+| Cards | Chess Pieces | Board | Board Box | Pieces Box |
+| - | - | - | - | - |
+| ![Five cards describing the chess pieces, each with an ornate design and a picture of a different dog. The cards are labeled "Rocky the Mongoose," "Knightly the Boxer," "Bishop the Akita," "Queenie the Afghan," and "Kingly the Great Dane," each describing the respective dog's story and role in the chess set.](./images/card/print-front.jpeg) | ![A black chess piece stand with multiple tiers, holding beige and black dog-themed chess pieces. The pieces are arranged neatly in their respective compartments.](./images/render/pieces.jpg) | ![3D printed chessboard with green and beige squares, set up for a game with white and black chess pieces. The board is bordered with gray, and the pieces feature various dog designs.](./images/board/full.jpeg) | ![A purple box for the chessboard with a black stylized knight chess piece featuring a dog head on the side. The box is placed on a kitchen counter.](./images/box/stencil-repainted.jpeg) | ![A closed purple cube box with a black stylized knight chess piece featuring a dog head on the side. The box is placed on a light-colored wooden surface.](./images/piece-box/closed.jpeg) |
 
 I’d love to hear your thoughts and suggestions. Please feel free to open a PR if you want to make any contributions: [GitHub PRs](https://github.com/obartra/3d/compare).
