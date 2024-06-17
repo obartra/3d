@@ -1,5 +1,7 @@
 # The Differently-Abled Chess Set
 
+> Generated translations in [<img src="./images/flags/cat.png" height=14 alt="Catalan Language" />](./README-cat.md) [<img src="./images/flags/es.png" height=14 alt="Spanish Language" />](./README-es.md) [<img src="./images/flags/fr.png" height=14 alt="French Language" />](./README-fr.md).
+
 This project is a tribute to my dog trainer, Casey Buckley, who runs [WP Creative Pets](https://www.wpcreativepets.com/). If you have a dog, especially a reactive one, and are in the Philadelphia area, you won't find a better trainer. She readily adapts to different teaching styles, is trauma-informed, queer-friendly, and extremely talented.
 
 ## Background
