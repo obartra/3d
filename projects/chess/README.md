@@ -1,4 +1,4 @@
-# The Differently-Abled Chess Set
+# The Differently-Abled Dog Chess Set
 
 > Generated translations in [<img src="./images/flags/cat.png" height=14 alt="Catalan Language" />](./README-cat.md) [<img src="./images/flags/es.png" height=14 alt="Spanish Language" />](./README-es.md) [<img src="./images/flags/fr.png" height=14 alt="French Language" />](./README-fr.md).
 
