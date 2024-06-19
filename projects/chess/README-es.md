@@ -1,4 +1,4 @@
-# El Juego de Ajedrez de Habilidades Diferentes
+# El Juego de Ajedrez de Perros con Capacidades Diferentes
 
 > Traducciones generadas en [<img src="./images/flags/cat.png" height=14 alt="Catalán" />](./README-cat.md) [<img src="./images/flags/fr.png" height=14 alt="Francés" />](./README-fr.md). Original en [<img src="./images/flags/us.png" height=14 alt="Inglés" />](./README.md)
 

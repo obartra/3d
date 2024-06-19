@@ -1,4 +1,4 @@
-# Le Jeu d'Échecs Différemment Capable
+# Le Jeu d'Échecs pour Chiens aux Capacités Différentes
 
 > Traductions générées en [<img src="./images/flags/cat.png" height=14 alt="Catalan" />](./README-cat.md) [<img src="./images/flags/es.png" height=14 alt="Espagnol" />](./README-es.md). Original en [<img src="./images/flags/us.png" height=14 alt="Anglais" />](./README.md)
 

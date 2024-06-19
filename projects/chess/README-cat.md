@@ -1,4 +1,4 @@
-# El Joc d'Escacs amb Capacitats Diferents
+# El Joc d'Escacs de Gossos Amb Capacitats Diferents
 
 > Traduccions generades en [<img src="./images/flags/es.png" height=14 alt="Castellà" />](./README-es.md) [<img src="./images/flags/fr.png" height=14 alt="Francès" />](./README-fr.md). Original en [<img src="./images/flags/us.png" height=14 alt="Anglès" />](./README.md)
 
