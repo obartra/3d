@@ -96,7 +96,7 @@ Après avoir exploré différents styles, j'ai choisi un look orné et antique.
 | - | - | - |
 | ![Prototype de style orné, antique, floral de la carte de Kingly le Grand Danois](./images/card/style-antique.jpg) | ![Prototype de style éco-responsable, moderne de la carte de Kingly le Grand Danois](./images/card/style-eco.jpg) | ![Prototype de style minimaliste de la carte de Kingly le Grand Danois](./images/card/style-minimal.jpg) |
 
-Comme la devise de WP Creative Pets est "Every Moment is a Training Moment", je voulais l'incorporer comme partie du jeu de cartes. Avec un peu plus d'aide de ChatGPT, j'ai obtenu la traduction approximative en latin de "Omne Momentum Disciplina Est."
+Comme la devise de WP Creative Pets est "Chaque Moment est un Moment d'Entraînement", je voulais l'incorporer comme partie du jeu de cartes. Avec un peu plus d'aide de ChatGPT, j'ai obtenu la traduction approximative en latin de "Omne Momentum Disciplina Est."
 
 <p align="center">
     <img src="./images/card/moto.png" width="200" alt="Illustration de style vintage orné avec un cadre floral décoratif avec un centre circulaire vide et des banderoles portant les mots 'Omne Momentum' en haut et 'Disciplina Est' en bas, dans des tons de brun et beige" />

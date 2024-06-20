@@ -96,9 +96,7 @@ Después de explorar diferentes estilos, elegí un aspecto ornamentado y antiguo
 | - | - | - |
 | ![Prototipo de tarjeta de estilo ornamentado, antiguo y floral de Kingly el Gran Danés](./images/card/style-antique.jpg) | ![Prototipo de tarjeta de estilo ecológico, moderno de Kingly el Gran Danés](./images/card/style-eco.jpg) | ![Prototipo de tarjeta de estilo minimalista de Kingly el Gran Danés](./images/card/style-minimal.jpg) |
 
-Como el lema de WP Creative Pets es "Cada Momento es un Momento de Entrenamiento", quise incorporarlo como parte del conjunto
-
- de tarjetas. Con algo de ayuda de ChatGPT, llegué a la traducción aproximada en latín de "Omne Momentum Disciplina Est."
+Como el lema de WP Creative Pets es "Cada Momento es un Momento de Entrenamiento", quise incorporarlo como parte del conjunto de tarjetas. Con algo de ayuda de ChatGPT, llegué a la traducción aproximada en latín de "Omne Momentum Disciplina Est."
 
 <p align="center">
     <img src="./images/card/moto.png" width="200" alt="Ilustración de estilo vintage ornamentado con un marco floral decorativo con un centro circular vacío y pancartas que dicen 'Omne Momentum' en la parte superior y 'Disciplina Est' en la parte inferior, en tonos marrones y beige" />

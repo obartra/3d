@@ -88,9 +88,7 @@ Aquí teniu el resultat final:
 
 ## Targetes
 
-L'objectiu de les targetes era fer les discapacitats mostrades en les peces d'escacs més clares mentre les destacava d'una manera positiva o neutral, no com
-
- una limitació sinó simplement com a part de la vida del gos.
+L'objectiu de les targetes era fer les discapacitats mostrades en les peces d'escacs més clares mentre les destacava d'una manera positiva o neutral, no com una limitació sinó simplement com a part de la vida del gos.
 
 Després d'explorar diferents estils, vaig triar un aspecte adornat i antic.
 
@@ -98,7 +96,7 @@ Després d'explorar diferents estils, vaig triar un aspecte adornat i antic.
 | - | - | - |
 | ![Prototip d'estil floral, antic i ornamentat de la targeta del Kingly el Gran Danès](./images/card/style-antique.jpg) | ![Prototip d'estil modern i eco-friendly de la targeta del Kingly el Gran Danès](./images/card/style-eco.jpg) | ![Prototip d'estil minimalista de la targeta del Kingly el Gran Danès](./images/card/style-minimal.jpg) |
 
-Com que el lema de WP Creative Pets és "Every Moment is a Training Moment," volia incorporar-lo com a part del conjunt de targetes. Amb una mica d'ajuda de ChatGPT, vaig arribar a la traducció aproximada al llatí de "Omne Momentum Disciplina Est."
+Com que el lema de WP Creative Pets és "Cada Moment és un Moment d'Entrenament," volia incorporar-lo com a part del conjunt de targetes. Amb una mica d'ajuda de ChatGPT, vaig arribar a la traducció aproximada al llatí de "Omne Momentum Disciplina Est."
 
 <p align="center">
     <img src="./images/card/moto.png" width="200" alt="Il·lustració d'estil vintage adornada amb un marc floral decoratiu amb un centre circular buit i pancartes que diuen 'Omne Momentum' a la part superior i 'Disciplina Est' a la part inferior, en tons marrons i beixos" />
@@ -205,9 +203,7 @@ Van ser necessaris diversos intents per aconseguir un text en braille clar. Tamb
 
 Tant per al braille com per al codi QR, vaig haver d'afegir una pausa per canviar el filament ja que la meva impressora no suporta impressions multi-material. Per fer-ho, afegiu `M600` al codi G generat on ha de produir-se la pausa. Si teniu curiositat sobre què passa quan afegiu la pausa a la capa incorrecta, podeu veure-ho aquí:
 
-![Fotografia d'una impressió 3D fallida d'un text en braille sobre una superfície de fusta. La impressió té una capa superior negra amb punts de braille visibles, però el canvi de color del filament s'ha aplicat incorrectament, resultant en el filament negre utilitzat a la última capa de la part base en lloc de la capa prevista. La taula està emmarcada per un marc porpra, i la superfície sembla irregular i desordenada degut al problema de canvi de capa del color del filament. El text en braille és difícil de lleg
-
-ir per culpa de l'error de capa.](./images/braille/attempt-layer.png)
+![Fotografia d'una impressió 3D fallida d'un text en braille sobre una superfície de fusta. La impressió té una capa superior negra amb punts de braille visibles, però el canvi de color del filament s'ha aplicat incorrectament, resultant en el filament negre utilitzat a la última capa de la part base en lloc de la capa prevista. La taula està emmarcada per un marc porpra, i la superfície sembla irregular i desordenada degut al problema de canvi de capa del color del filament. El text en braille és difícil de llegir per culpa de l'error de capa.](./images/braille/attempt-layer.png)
 
 Finalment, vaig utilitzar el mateix feltre que per a les peces d'escacs per cobrir la part inferior de l'interior de la caixa.
 
